@@ -1,3 +1,4 @@
+print("Working with Flask")
 from flask import Flask
 
 app = Flask(__name__)
